@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/kol-kalam-el-hob-leek-all-love-words-are-for-you/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Music Rights & Licensing for Kol Kalam El Hob Leek – All Love Words Are for You](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License this song: Kol Kalam El Hob Leek – All Love Words Are for You](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
