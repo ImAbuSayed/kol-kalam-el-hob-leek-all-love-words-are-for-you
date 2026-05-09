@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kol Kalam El Hob Leek – All Love Words Are for You
+
+This log tracks the cryptographic history and versioning for the song **Kol Kalam El Hob Leek – All Love Words Are for You** (kol-kalam-el-hob-leek-all-love-words-are-for-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T08:21:50.661704 | `v1` | `bc5f385e1484702f028b645d77bd16ef8f501de48a40500dcd5ad6a23f3941ce` | `2cf567f1c243bd20cf098e33ea67b298048274c93d3fa03b204dd9823ef9b58c` | `2026-05-09_kol-kalam-el-hob-leek-all-love-words-are-for-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
